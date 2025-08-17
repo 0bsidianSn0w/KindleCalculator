@@ -26,4 +26,4 @@ This project is licensed under the [MIT License](./LICENCE).
 Portions of the code are adapted from [KindleFetch](https://github.com/justrals/kindlefetch) © 2025 justrals.
 
 #### Disclaimer
-I am not responsible for what is done with my work. Please dont wreak your kindle. (It shouldn't unless somthing is very wrong)
+I am not responsible for what is done with my work. Please don't wreak your kindle. (It shouldn't unless somthing is very wrong)
