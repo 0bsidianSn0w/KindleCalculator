@@ -1,5 +1,5 @@
 {
 	"items": [
-		{"name": "Calculator", "action": "sh run bin/kterm-bc-launch.sh"}
+		{"name": "Calculator", "action": "sh -c bin/kterm-bc-launch.sh"}
 	]
 }
