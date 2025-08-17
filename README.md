@@ -5,7 +5,7 @@ This is a simple **calculator KUAL extension** I made, using [justrals’ Kindle
 Big thanks to **justrals** for the base project! 🙏
 
 I plan to make it **KPM / KindleForge** compatible soon.  
-**LONG LIVE JAILBREAKINGREADME.md* 🔓✨
+**LONG LIVE JAILBREAKINGREADME.md** 🔓✨
 
 ---
 
