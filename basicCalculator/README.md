@@ -5,16 +5,18 @@ This is a simple **calculator KUAL extension** I made, using [justrals’ Kindle
 Big thanks to **justrals** for the base project! 🙏
 
 I plan to make it **KPM / KindleForge** compatible soon.  
-**LONG LIVE JAILBREAKINGREADME.md* 🔓✨
+**LONG LIVE JAILBREAKING** 🔓✨
 
 ---
 
 ## 📦 Installation
 
-1. Download or clone this repository.
-2. Copy the  folder into your Kindle’s  directory.
-3. Eject your Kindle safely and open the **KUAL menu**.
-4. You should now see **BasicCalculator** listed and ready to use.
+1. Download the installCalc.sh file from this repo.
+2. Plug your kindle into your computer (or use usbnet idc)
+3. Put it in /mnt/us/documents
+4. Unplug/Disconnect your kindle
+5. Run the file now on your homescreen
+6. PROFIT!
 
 ---
 

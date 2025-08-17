@@ -11,11 +11,12 @@ I plan to make it **KPM / KindleForge** compatible soon.
 
 ## 📦 Installation
 
-1. Download or clone this repository.
-2. You will get a folder called KindleCalculator, Within it there is another folder.
-3. Take that folder and put it in /mnt/us/extensions/, You do not need to copy the README and LICENCE in KindleCalculator.
-3. Eject your Kindle safely and open the **KUAL menu**.
-4. You should now see **Calculator** listed and ready to use.
+1. Download the installCalc.sh file from this repo.
+2. Plug your kindle into your computer (or use usbnet idc)
+3. Put it in /mnt/us/documents
+4. Unplug/Disconnect your kindle
+5. Run the file now on your homescreen
+6. PROFIT!
 
 ---
 
@@ -24,3 +25,5 @@ I plan to make it **KPM / KindleForge** compatible soon.
 This project is licensed under the [MIT License](./LICENCE).  
 Portions of the code are adapted from [KindleFetch](https://github.com/justrals/kindlefetch) © 2025 justrals.
 
+#### Disclaimer
+I am not responsible for what is done with my work. Please dont wreak your kindle. (It shouldn't unless somthing is very wrong)
