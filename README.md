@@ -16,7 +16,8 @@ I plan to make it **KPM / KindleForge** compatible soon.
 3. Put it in /mnt/us/documents
 4. Unplug/Disconnect your kindle
 5. Run the file now on your homescreen
-6. PROFIT!
+6. ???
+7. PROFIT!
 
 ---
 
